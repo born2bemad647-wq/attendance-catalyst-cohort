@@ -1,0 +1,2 @@
+name : Tushar Nawde ENTC B-09
+discription: todays session io learn lot of new stuff, in this i have preety good idea about linear regression,logistic regression,gradient descent,one-hot coding and some practice questions and new one like numpy and scikit.
